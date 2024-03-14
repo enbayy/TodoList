@@ -1,0 +1,42 @@
+#todoAddButton {
+    border-radius: 20px;
+    background-color: green;
+    font-weight: bold;
+    height: 4cap;
+    width: 15cap;
+}
+
+#todoAddButton:hover{
+    background-color: orange;
+}
+
+#clearButton:hover {
+    background-color: orange;
+}
+
+#clearButton {
+    border-radius: 20px;
+    background-color: red;
+    font-weight: bold;
+    height: 4cap;
+    width: 20cap;
+}
+
+.card-title {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+}
+
+
+body {
+    background-color: bisque;
+}
+
+.card{
+border-radius: 25px;
+}
+
+li{
+    background-color: lightgrey;
+}
